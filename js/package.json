@@ -1,0 +1,19 @@
+{
+  "name": "ftrack-demo",
+  "version": "1.0.0",
+  "description": "Demo of Ftrack api using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ftrack"
+  ],
+  "author": "Aditya Mulik",
+  "license": "ISC",
+  "dependencies": {
+    "@ftrack/api": "^0.8.0-alpha.2",
+    "ftrack-javascript-api": "git+http://bitbucket.org/ftrack/ftrack-javascript-api.git",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+API Documentation Python: http://ftrack-python-api.rtd.ftrack.com/en/stable/introduction.html
+API Documentation JavaScript: http://ftrack-javascript-api.rtd.ftrack.com/en/stable/
+NPM: https://www.npmjs.com/package/@ftrack/api
+DB: http://ftrack.rtd.ftrack.com/en/3.5.9/administering/managing_local_installation/configuring_the_database.html
+
+Server URL: https://self-aditya.ftrackapp.com/
